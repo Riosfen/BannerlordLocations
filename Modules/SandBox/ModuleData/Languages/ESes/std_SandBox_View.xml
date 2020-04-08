@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Spanish" />
+  </tags>
+  <strings>
+    <string id="171fTtIN" text="SandBox" />
+    <string id="9NuttOBC" text="Cargar" />
+    <string id="A7349NHy" text="Critical Kingdom Decision" />
+    <string id="AbEh2y8o" text="Guardar Y Salir" />
+    <string id="bFzZwwjT" text="Examinar" />
+    <string id="bV75iwKa" text="Guardar" />
+    <string id="d4ud8l9b" text="Continuar" />
+    <string id="e0KdfaNe" text="Guardar Como" />
+    <string id="NqarFr4P" text="Opciones" />
+    <string id="PXT6aA4J" text="Opciones De Campa&ntilde;a" />
+    <string id="RamV6yLM" text="Salir Al Men&uacute; Principal" />
+    <string id="VHjIJGja" text="You need to be in a kingdom" />
+    <string id="XzZFhRwr" text="Volver A La Partida" />
+  </strings>
+</base>
