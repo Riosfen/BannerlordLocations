@@ -15,8 +15,8 @@
     <string id="aheVbtmm" text="{ITEM} at {FACTION}" />
     <string id="aowJMil0" text="{KINGDOM} ha sido aniquilado." />
     <string id="AQK4ADS5" text="{HERO_1.LINK} murdered {HERO_2.LINK}" />
-    <string id="AxMrFoea" text="El pelot&oacute;n dirigido por {LORD.LINK} de {FACTION_NAME} est&aacute; asediando {TOWN_NAME}!" />
-    <string id="bNAxWneP" text="{INSULTER.LINK} dice que {INSULTEE.LINK} est&aacute; sacando dinero de enterprises." />
+    <string id="AxMrFoea" text="El pelotón dirigido por {LORD.LINK} de {FACTION_NAME} está asediando {TOWN_NAME}!" />
+    <string id="bNAxWneP" text="{INSULTER.LINK} dice que {INSULTEE.LINK} está sacando dinero de enterprises." />
     <string id="bNDUtygL" text="{INSULTER.LINK} says {INSULTEE.LINK} hoards goods to drive up prices." />
     <string id="Bovy7D7s" text="{MOTHER.LINK} has given birth, but the child was stillborn." />
     <string id="bZvmjYPE" text="{PARTY} is defending {SETTLEMENT}" />
@@ -59,7 +59,7 @@
     <string id="uXLDudpa" text="{MOTHER.LINK} has given birth to twins, but they were stillborn." />
     <string id="WiiRaLyK" text="{INSULTER.LINK} has said {INSULTEE.LINK} caused a setback on the battlefield by behaving rashly." />
     <string id="XRTcnnR2" text="{HERO.LINK} is fugitive." />
-    <string id="xss7eP0f" text="{PARTY} est&aacute; dirigiendose a {SETTLEMENT}" />
+    <string id="xss7eP0f" text="{PARTY} está dirigiendose a {SETTLEMENT}" />
     <string id="y8WlfdqZ" text="{LORD.LINK}" />
     <string id="yUaE3eeX" text="{SETTLEMENT} is cleaned." />
     <string id="z6tHRStO" text="{MOTHER.LINK} has given birth to twins, {CHILD1.LINK} and {CHILD2.LINK}." />

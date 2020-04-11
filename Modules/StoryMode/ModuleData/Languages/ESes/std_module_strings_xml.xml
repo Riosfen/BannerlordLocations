@@ -5,13 +5,13 @@
   </tags>
   <strings>
     <string id="(" text="Baldimos" />
-    <string id="3nilwlcM" text="You have arrived at {TUTORIAL_SETTLEMENT_NAME}. To explore the location, you can enter the settlement by pressing the highlighted button on the left." />
-    <string id="3RqEmB15" text="Navigating Calradia" />
+    <string id="3nilwlcM" text="Has llegado al tutorial {TUTORIAL_SETTLEMENT_NAME}. Para explorar la ubicación, puede entrar al asentamiento presionando el botón resaltado a la izquierda." />
+    <string id="3RqEmB15" text="Navegando por Calradia" />
     <string id="3Y5dudW9" text="Alda" />
-    <string id="3YkpC9Nf" text="You can filter Items through buttons at the top. Filter them to Misc." />
+    <string id="3YkpC9Nf" text="Puede filtrar los elementos a través de botones de la parte superior. Fíltralos a Varios." />
     <string id="4IZnbvlD" text="Baudein" />
-    <string id="5bYwdRFs" text="Sword Training" />
-    <string id="5M48atXU" text="You have an active quest! You can learn more about it by clicking on the quest log on the lower left of your screen." />
+    <string id="5bYwdRFs" text="Entrenamiento con espada" />
+    <string id="5M48atXU" text="!Tienes una misión activa! Puede obtener más información sobre ella haciendo clic en el registro de misiones en la parte inferior izquierda de su pantalla." />
     <string id="7xHMIZEP" text="Practice Target" />
     <string id="8UUV94Lq" text="Ranged Training" />
     <string id="8YvBapxl" text="Varic" />
@@ -55,7 +55,7 @@
     <string id="lN1RQ260" text="Shoot targets ({HIT} / {ALL})" />
     <string id="LS1whiyj" text="The menu on the top right shows the important people in your current location.{newline}{newline}Click on the headman's portrait to talk to him." />
     <string id="m2uEbrkh" text="Najun" />
-    <string id="mfugkRoz" text="Hideouts &amp; Orders" />
+    <string id="mfugkRoz" text="Hideouts ámp; Orders" />
     <string id="MgBazeaE" text="Alte" />
     <string id="MqeQco4z" text="Mounted Spear Training" />
     <string id="MUEaqlix" text="Beat veteran trainer" />
@@ -75,8 +75,8 @@
     <string id="qNrWU4Or" text="Melee Training" />
     <string id="qXv3BY5v" text="You can hold &quot;Left Alt&quot; key to see the location of the Headman.{newline}{newline}Once you are near him, press F to speak with him." />
     <string id="QZHSvGrD" text="Baldrim" />
-    <string id="rLEIuqZO" text="After a hard-fought battle, you may have the choice to take some prisoners or recruit those that you have freed from your enemy.{newline}{newline}Both options are done by transferring the troops to your party with the little arrow button on the left." />
-    <string id="Rvn8tGB0" text="Your brother has asked you to hire at least 4 men before you set out to face the raiders.{newline}{newline}You can hire troops from villages and towns by clicking on the &quot;Reclutar Tropas&quot; button." />
+    <string id="rLEIuqZO" text="Después de una batalla muy reñida, es posible que tengas la opción de tomar algunos prisioneros o reclutar a los que has liberado de tu enemigo.{newline}{newline}Ambas opciones se realizan transfiriendo las tropas a tu grupo con el pequeño de la flecha de la izquierda." />
+    <string id="Rvn8tGB0" text="Tu hermano te ha pedido que contrates al menos 4 hombres antes de salir a enfrentarte a los asaltantes.{newline}{newline}You can hire troops from villages and towns by clicking on the &quot;Reclutar Tropas&quot; button." />
     <string id="Sfd3aqia" text="Bandan" />
     <string id="tZtrK3cs" text="Horse Archery Training" />
     <string id="uW4htMut" text="With Sword and Shield" />
@@ -89,11 +89,11 @@
     <string id="xCHBC7S9" text="Click on the &quot;Talk&quot; button to return to the notable and learn more about the task ahead." />
     <string id="Xr50xGhr" text=" ({TIME_SCORE} seconds)" />
     <string id="XsIq2RFs" text="Baldim" />
-    <string id="yCEMiKjB" text="Choose your {SELECTION}" />
+    <string id="yCEMiKjB" text="Elige tu {SELECTION}" />
     <string id="yvdQ9MD6" text="Terea" />
     <string id="Z33uQl2f" text="Tarya" />
     <string id="z9eC5hjv" text="With Spear and Shield" />
     <string id="ZozwfwVl" text="Defend yourself ({HIT} / {ALL})" />
-    <string id="ZW9OGfEt" text="Rescuing &amp; Taking Prisoners" />
+    <string id="ZW9OGfEt" text="Rescuing ámp; Taking Prisoners" />
   </strings>
 </base>

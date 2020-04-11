@@ -35,9 +35,9 @@
     <string id="MRktqZwu" text="Skill Focus" />
     <string id="o5ho2Txg" text="Army Cohesion" />
     <string id="OC4yVKKJ" text="The game represents political or military leaders and other key people as unique characters. Characters have relations with other characters. Characters have {SKILLS_LINK} and traits. Characters may belong to Clans. Characters come from a culture." />
-    <string id="PUjDWe5j" text="Culture" />
+    <string id="PUjDWe5j" text="Cultura" />
     <string id="qnxJYAs7" text="Party" />
-    <string id="RVPidk5a" text="Influence" />
+    <string id="RVPidk5a" text="Influencia" />
     <string id="U29XvRU6" text="Personality traits represent a character’s reputation. They affect your relations with everyone in your realm, and possibly even your enemies too. For NPCs, they also represent the character’s assumptions about what succeeds in the world: should you rigidly keep your oaths, or is everyone flexible and promises are for suckers? Should you plan every move with a long-term goal in mind, or will people not trust you if you don’t show a bit of emotion? The traits are: Valor/Caution, Mercy/Cruelty, Honor/Deviousness, Generosity/Disloyalty, and Calculating/Emotional. Generally the first of these is viewed more favorably than the second, but not always: Generous leaders, loyal to their troops, are great for commanding armies, but you might want a judge to be a bit more impartial. NPCs’ personality traits are fixed, whereas you, the player, will develop your traits by your actions within the game. More information is available about the individual traits as you mouse over them." />
     <string id="U7er3V9s" text="Items" />
     <string id="vlvaF8qF" text="Parties are made up of troops and {CHARACTER_LINK}s and can travel around the map. Party travel speed depends on a number of factors. Generally bigger parties are slower because they are more likely to lose marching order or get clogged in choke points. Parties that are overburdened by carrying too many goods also get slower. You can increase party speed by keeping horses in the inventory." />

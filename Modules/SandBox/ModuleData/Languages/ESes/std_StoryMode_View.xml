@@ -4,8 +4,8 @@
     <tag language="Spanish" />
   </tags>
   <strings>
-    <string id="Rvr1bcu8" text="Next" />
-    <string id="sf_menu_storymode_new_game" text="Campaign" />
-    <string id="WXAaWZVf" text="Previous" />
+    <string id="Rvr1bcu8" text="Continuar" />
+    <string id="sf_menu_storymode_new_game" text="Campaña" />
+    <string id="WXAaWZVf" text="Volver" />
   </strings>
 </base>

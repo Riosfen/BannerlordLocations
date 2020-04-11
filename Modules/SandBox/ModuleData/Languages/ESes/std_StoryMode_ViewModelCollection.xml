@@ -4,14 +4,14 @@
     <tag language="Spanish" />
   </tags>
   <strings>
-    <string id="8eYtra7T" text="Determine the game difficulty" />
-    <string id="fz2kQjFS" text="Choose your character's culture:" />
-    <string id="K6GYskvJ" text="Culture:" />
-    <string id="kek1czyb" text="You prepare to set off with your brother on a mission of vengeance and rescue. Here is your character. Click finish if you are ready, or go back to make changes." />
-    <string id="MaHMOzL2" text="Character Culture" />
-    <string id="mHVmrwRQ" text="Enter your name" />
-    <string id="PUjDWe5j" text="Culture" />
-    <string id="raD9MK3O" text="Difficulty" />
+    <string id="8eYtra7T" text="Determina la dificultad del juego" />
+    <string id="fz2kQjFS" text="Elije la cultura de tu personaje:" />
+    <string id="K6GYskvJ" text="Cultura:" />
+    <string id="kek1czyb" text="Te preparas para salir con tu hermano en una misión de venganza y rescate. Aquí está tu personaje. Haga clic en finalizar si estás preparado, o regrese para hacer cambios." />
+    <string id="MaHMOzL2" text="Cultura Del Personaje" />
+    <string id="mHVmrwRQ" text="Introduce tu nombre" />
+    <string id="PUjDWe5j" text="Cultura" />
+    <string id="raD9MK3O" text="Dificultad" />
     <string id="txjiykNa" text="Review" />
   </strings>
 </base>

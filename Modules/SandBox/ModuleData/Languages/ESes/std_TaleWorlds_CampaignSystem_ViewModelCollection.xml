@@ -22,7 +22,7 @@
     <string id="305cf7f98458b22e9af72b60a131714f" text="Horse Armor: " />
     <string id="345a87fcc69f626ae3916939ef2fc135" text="Swing Speed: " />
     <string id="3ab000d582d2f304e8bed9109ff147a2" text="Consumable" />
-    <string id="3CpNUnVl" text="Cancel" />
+    <string id="3CpNUnVl" text="Cancelar" />
     <string id="3F0y3ugx" text="Success!" />
     <string id="3ORSs1nN" text="Current bonus: {BONUS}" />
     <string id="3sxtCWPe" text="Leaving Kingdom" />
@@ -60,7 +60,7 @@
     <string id="aROohsat" text="Already in another army." />
     <string id="aTdrjrEh" text="{SWING_DAMAGE_FACTOR}" />
     <string id="aVH7pKnK" text="Next Bonus: {BONUS}" />
-    <string id="AxRxT2Xj" text="Once a party is disbanded, it merges into a near clan party or goes to nearest map faction settlement and joins its garrison.\nYou will not be able to undo / cancel this action.\nAre you sure?" />
+    <string id="AxRxT2Xj" text="Once a party is disbanded, it merges into a near clan party or goes to nearest map faction settlement and joins its garrison.{newline}You will not be able to undo / cancel this action.{newline}Are you sure?" />
     <string id="B0pFBs5P" text="Running From {TARGET_PARTY}" />
     <string id="bd7oAQq6" text="Daily" />
     <string id="bdp65LWd" text="Clan Role" />
@@ -154,7 +154,7 @@
     <string id="KTKBKmvp" text="Thrust Damage Factor " />
     <string id="KTTyBbsp" text="Max HP" />
     <string id="kWVbHPtT" text="Total" />
-    <string id="LBNzsqyb" text="Fiefs" />
+    <string id="LBNzsqyb" text="Feudos" />
     <string id="lc9s4rLZ" text="Create Army" />
     <string id="LEiZWuZm" text="{SKILL_NAME}: {SKILL_VALUE}" />
     <string id="LpsoPtOo" text="Projects" />
@@ -200,7 +200,7 @@
     <string id="Pvx4TU66" text="Transfer All Main Troops" />
     <string id="pWfadZg9" text="Parties In the Army" />
     <string id="pWObBhj5" text="You cannot assign a party leader as a new governor of a settlement" />
-    <string id="PXT6aA4J" text="Campaign Options" />
+    <string id="PXT6aA4J" text="Opciones de Campaña" />
     <string id="q1J4a8rr" text="Learning Rate" />
     <string id="QBPrRdQJ" text="Surgeon" />
     <string id="qBq70qDq" text="Current Project" />
@@ -223,7 +223,7 @@
     <string id="Rkh2k1OA" text="Completion:" />
     <string id="rsHPaaYZ" text="Cohesion needs to be lower than {MINAMOUNT} to boost" />
     <string id="rThSy9ed" text="Required: {UPGRADE_ITEM} (You have none)" />
-    <string id="RVPidk5a" text="Influence" />
+    <string id="RVPidk5a" text="Influencia" />
     <string id="s5b77f0H" text="Add +{BOOSTAMOUNT} cohesion to your army" />
     <string id="s6koeapc" text="{MAP_FACTION}" />
     <string id="Sls0KQVn" text="Elections" />

@@ -79,7 +79,7 @@
     <string id="b0JJCYNC" text="Enter 2." />
     <string id="B10lcpMz" text="As you get ready to continue the training, a sentry from the village runs up to you, shouting alarums. The bandits have been spotted on the horizon, riding hard for {s3}. The elder begs that you organize your newly-trained militia and face them." />
     <string id="b88WoLBl" text="Suddenly all the world goes black around you. Many hours later you regain your conciousness and find yourself at the spot you fell. Your enemies must have taken you up for dead and left you there. However, it seems that none of your wound were lethal, and altough you feel awful, you find out that can still walk. You get up and try to look for any other survivors from your party." />
-    <string id="bBvWHdj8" text="Order your men to join the battle without you." />
+    <string id="bBvWHdj8" text="Ordenar a tus hombres que se unan a la batalla sin tí." />
     <string id="bDTahEHG" text="{s13}" />
     <string id="BfrQNKa8" text="{s4}^^Your casualties: {s8}^^Allies' casualties: {s9}^^Enemy casualties: {s10}" />
     <string id="bgiowuXu" text="{!}Increase last offensive time by 24 hours." />
@@ -141,8 +141,8 @@
     <string id="GfW8kSay" text="Being forced out of your home." />
     <string id="GgVTuoYz" text="{s10}" />
     <string id="GM1tvFNX" text="You remain in disguise for as long as possible before revealing yourself. The guards are outraged and beat you savagely before throwing you back into the cell for God knows how long..." />
-    <string id="GmcgoiGy" text="Trade" />
-    <string id="gPbFPJPw" text="Join the battle." />
+    <string id="GmcgoiGy" text="Comerciar" />
+    <string id="gPbFPJPw" text="Unirse a la batalla." />
     <string id="GT2FAj5O" text="Renouncing your oath is a grave act. Your lord may condemn you and confiscate your lands and holdings. However, if you return them of your own free will, he may let the betrayal go without a fight." />
     <string id="gx901scU" text="Go to the blacksmith." />
     <string id="gyGbu5ev" text="{!}CHEAT! - increase persuasion" />
@@ -312,7 +312,7 @@
     <string id="yYrC4n2U" text="{s8} sends word that he wishes to speak with you about a task he needs performed. He requests you to come and see him as soon as possible." />
     <string id="Z0z5XbKQ" text="The loss of a loved one." />
     <string id="z1bYGz46" text="Take it as your just due." />
-    <string id="Z2sLYZkZ" text="Crossbow." />
+    <string id="Z2sLYZkZ" text="Ballesta." />
     <string id="Z40bFgOY" text="Enter 7." />
     <string id="Za2z5swo" text="{!}Cheat: Go to track." />
     <string id="zaupBMFt" text="Horseback practice." />

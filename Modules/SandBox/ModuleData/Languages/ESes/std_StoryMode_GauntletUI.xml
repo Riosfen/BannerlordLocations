@@ -4,9 +4,9 @@
     <tag language="Spanish" />
   </tags>
   <strings>
-    <string id="75nwCTEn" text="Clan Screen is disabled during Tutorial." />
-    <string id="lBQXP6Wj" text="Start Game" />
-    <string id="Rvr1bcu8" text="Next" />
-    <string id="UjERCi2F" text="This feature is disabled." />
+    <string id="75nwCTEn" text="La pantalla del clan esta deshabilitada durante el tutorial." />
+    <string id="lBQXP6Wj" text="Empezar Juego" />
+    <string id="Rvr1bcu8" text="Siguiente" />
+    <string id="UjERCi2F" text="Esta característica está deshabilitada." />
   </strings>
 </base>

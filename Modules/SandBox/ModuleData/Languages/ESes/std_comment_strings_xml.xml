@@ -26,7 +26,7 @@
     <string id="6UBdsXlo" text="Perhaps one day we shall see each other on a battlefield. You shall know the Ghilman by the splendor of our steeds and the shimmer of our steel. If we are on your side, you may rejoice. If we are your enemy, you may save yourself a great deal of trouble by running away before the fighting starts." />
     <string id="7lWtkqHv" text="I'll remember your name." />
     <string id="7pQ3y21E" text="Thank you again for all your help." />
-    <string id="80C0gWJ4" text="king of the Vlandians" />
+    <string id="80C0gWJ4" text="rey de los Vlandianos" />
     <string id="86aQkXpV" text="Very well - I shall put your courage to the test!" />
     <string id="8eLXNZ7U" text="It is good to know who one fights." />
     <string id="8GDgJCB4" text="If you're ever looking for stout warriors, friend, you should think about hiring the Company of the Boar. The stoutest lads in Vlandia flock to our banner. Because if you don't hire us, your enemy might." />
@@ -183,7 +183,7 @@
     <string id="tOanKs9o" text="I am {LIEGE_TITLE}." />
     <string id="tUa5WBpp" text="rightful empress of the Calradians" />
     <string id="TUwY7IKc" text="So... You really did me over. Not sure we have much to talk about now, after that." />
-    <string id="Tvy4UvJC" text="queen of the Vlandians" />
+    <string id="Tvy4UvJC" text="reina de los Vlandianos" />
     <string id="TzPC5L5X" text="I'm always looking for good fighters. If you ask about me, I suspect you'll be told that I take good care of my men." />
     <string id="U4p70l9B" text="I am {CONVERSATION_CHARACTER.LINK}, a chieftain of the Khuzaits." />
     <string id="U770Bvy8" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. The fame of our family is second to none in the songs of the Battanians." />

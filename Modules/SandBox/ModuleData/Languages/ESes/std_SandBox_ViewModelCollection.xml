@@ -11,7 +11,7 @@
     <string id="8OkPHu4f" text="No" />
     <string id="9NuttOBC" text="Cargar" />
     <string id="aeouhelq" text="Si" />
-    <string id="Ahy035gM" text="Coste De Construcci&oacute;n" />
+    <string id="Ahy035gM" text="Coste De Construcción" />
     <string id="azJulvrp" text="{?IS_BETTING}Vas a perder {BET_AMOUNT}{GOLD_ICON} si fracasas.{newline}{?}{\?}Do you really want to forfeit?" />
     <string id="bV75iwKa" text="A salvo" />
     <string id="CiIWjF3f" text="+{PRISONERAMOUNT}p" />
@@ -19,20 +19,20 @@
     <string id="eL8nhkhQ" text="Create New Save Slot" />
     <string id="eTw2aNV5" text="+" />
     <string id="GAWxyVgq" text="Eliminar" />
-    <string id="GZWPHmAw" text="D&iacute;a : {DAY}" />
+    <string id="GZWPHmAw" text="Día : {DAY}" />
     <string id="HH2mZq8J" text="¿Seguro que quieres eliminar la partida?" />
-    <string id="hiCxFj4E" text="Campa&ntilde;a Guardada" />
+    <string id="hiCxFj4E" text="Campaña Guardada" />
     <string id="hYL3CFHX" text="¿Quieres sobreescribir esta partida?" />
     <string id="IwhpeT8C" text="Nivel : {PLAYER_LEVEL}" />
-    <string id="IXwOaa98" text="Tama&ntilde;o Del Grupo" />
+    <string id="IXwOaa98" text="Tamaño Del Grupo" />
     <string id="JAFIo7cM" text=":" />
     <string id="kJtNMYum" text="Module mismatch" />
     <string id="L9GnQvsq" text="Stake: {BETTED_DENARS}" />
-    <string id="LBNzsqyb" text="Fiefs" />
+    <string id="LBNzsqyb" text="Feudos" />
     <string id="lh0so0uX" text="Do you want to load the saved game with different modules?" />
     <string id="lPMYSSAa" text="Tools Required" />
     <string id="mDFhzEMC" text="Max. Hit Points" />
-    <string id="nvemmBZz" text="Has obtenido {AMOUNT}% de bot&iacute;n y prisioneros" />
+    <string id="nvemmBZz" text="Has obtenido {AMOUNT}% de botín y prisioneros" />
     <string id="O9nwLrYp" text="+{WOUNDEDAMOUNT}w" />
     <string id="oBbiVeKE" text="Hit Points" />
     <string id="oHaWR73d" text="Ok" />
@@ -42,13 +42,13 @@
     <string id="qSi4DlT4" text="Food" />
     <string id="R2AaCaPJ" text="Expected Change" />
     <string id="raD9MK3O" text="Difficulty" />
-    <string id="RVPidk5a" text="Influence" />
+    <string id="RVPidk5a" text="Influencia" />
     <string id="UwuYCgIU" text="Caution" />
-    <string id="V4iU0wRv" text="Gold" />
+    <string id="V4iU0wRv" text="Oro" />
     <string id="WAKz9xX8" text="Has ganado {A0} de moral." />
     <string id="WDlVhNuq" text="Name your save file" />
     <string id="WiNRdfsm" text="Hecho" />
-    <string id="xu5NA6AW" text="Has obtenido {A0}% del bot&iacute;n." />
+    <string id="xu5NA6AW" text="Has obtenido {A0}% del botín." />
     <string id="xzzSaN4b" text="Expected: {OVERALL_EXPECTED_DENARS}" />
     <string id="yF5fpwNE" text="Total: {TOTAL}" />
     <string id="YgyHVu8S" text="Sold" />

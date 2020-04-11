@@ -62,7 +62,7 @@
     <string id="2o7U1bNV" text="..and I will be at your side to fight your enemies should you need my sword." />
     <string id="2OmrHVjp" text="{QUEST_GIVER.LINK} has lost the ownership of {QUEST_SETTLEMENT}. Your contract with {?QUEST_GIVER.GENDER}her{?}him{\?} has canceled." />
     <string id="2oRJ0IzW" text="That will do. You've made a wise choice, my friend. {FACTION_NAME} does well by its loyal fighters, you will receive many rewards for your service.[rb:positive]" />
-    <string id="2P3UJ8be" text="You ask around the village if anyone saw {TARGET_HERO.LINK} or some suspicious characters with a young woman.\n\nVillagers say that they saw a young man and a girl ride in early in the morning and bought some supplies and galloped towards {TARGET_VILLAGE}." />
+    <string id="2P3UJ8be" text="You ask around the village if anyone saw {TARGET_HERO.LINK} or some suspicious characters with a young woman.{newline}{newline}Villagers say that they saw a young man and a girl ride in early in the morning and bought some supplies and galloped towards {TARGET_VILLAGE}." />
     <string id="2PPwmNmg" text="I can escort you for 10 days. After that, I must return to my own affairs." />
     <string id="2WI066bI" text="Nimr Nimr he was killed. Died in the cage of the Banu Qild./All the ladies cry their grief. All the husbands sigh in relief." />
     <string id="2xLwjXYm" text="Rest easy. Your captivity has ended." />
@@ -74,7 +74,7 @@
     <string id="3a8nmoNM" text="How much do you want to bet on yourself?" />
     <string id="3aziL3Gs" text="Scout {CURRENTLY_HELD_SCOUT}" />
     <string id="3bOcF1Cw" text="I can't spare anyone now. You will need to go alone." />
-    <string id="3CpNUnVl" text="Cancel" />
+    <string id="3CpNUnVl" text="Cancelar" />
     <string id="3hEmXhaW" text="I'm {PLAYER.NAME}. Let's skip the pleasantries and get right to business." />
     <string id="3hv4P5OO" text="Would you care to pass the time with a game of {GAME_NAME}?" />
     <string id="3JGRrENx" text="So be it. Let's go. {AMOUNT}{GOLD_ICON}" />
@@ -166,7 +166,7 @@
     <string id="7tuyySmq" text="I'll start." />
     <string id="7uFFaSHv" text="Now some people say our {?OWNER.GENDER}lady{?}lord{\?} {OWNER.LINK} is as mean as a scalded cat. But I say most people are villains, and it's good they feel a little fear. Anyway, there's meat on the table these days, and who can argue with that?" />
     <string id="7wkHMnNM" text="Maybe {AMOUNT}{GOLD_ICON} will help you to remember me." />
-    <string id="80riAa0q" text="Your Clan Tier needs to be {TIER}.\n You need relations of {RELATION} with {HERO.NAME}." />
+    <string id="80riAa0q" text="Your Clan Tier needs to be {TIER}.{newline} You need relations of {RELATION} with {HERO.NAME}." />
     <string id="8bJn8vvU" text="Clear out of this alley, and take your men with you." />
     <string id="8bLwh9yy" text="Excuse me, {?NPC.GENDER}my lady{?}sir{\?}. But I feel I need to think about this." />
     <string id="8bnlS0IV" text="Ploughing, sewing... Got many weeks of that ahead of us still." />
@@ -305,7 +305,7 @@
     <string id="BbnDPpxW" text="Did I ask you to speak? Your kin best scrape together a ransom before my patience runs out." />
     <string id="bbroVUrD" text="Of course, my {?PLAYER.GENDER}lady{?}lord{\?}.[rb:positive]" />
     <string id="bBVLVT7L" text="Certainly! Looks like a few of our lads are warming up now for the tournament. You can go and hop in if you want to. Or come back later if you just want to practice.[ib:warrior][rb:very_positive] " />
-    <string id="bbwNIIKI" text="You ask around the village if anyone saw {TARGET_HERO.LINK} or some suspicious characters with a young woman.\n\nVillagers say that there is a young man and woman came here exhausted. Villagers allowed them to stay here for a while.\nYou can check the area, and see if they are still hiding here." />
+    <string id="bbwNIIKI" text="You ask around the village if anyone saw {TARGET_HERO.LINK} or some suspicious characters with a young woman.{newline}{newline}Villagers say that there is a young man and woman came here exhausted. Villagers allowed them to stay here for a while.{newline}You can check the area, and see if they are still hiding here." />
     <string id="BbzdVZgh" text="test" />
     <string id="BdpW8gUM" text="That looks good, let's play!" />
     <string id="bDva8kVX" text="How much will you pay me for my service?" />
@@ -1096,7 +1096,7 @@
     <string id="wdQ54wn2" text="There's nothing I need right now.[rb:negative]" />
     <string id="wErSpkjy" text="I'm still working on it." />
     <string id="wFXj0bqj" text="My name is {PLAYER.NAME}, {?NPC.GENDER}madam{?}sir{\?}. Tell me about yourself." />
-    <string id="WGi3Zuv7" text="You asked the villagers around {CURRENT_SETTLEMENT} if they saw a young woman with the description of {QUEST_GIVER.LINK}'s daughter, {TARGET_HERO.LINK}.\n\nThey said a young woman and a young man drooped by early in the morning to buy some supplies and then rode off towards {TARGET_VILLAGE}." />
+    <string id="WGi3Zuv7" text="You asked the villagers around {CURRENT_SETTLEMENT} if they saw a young woman with the description of {QUEST_GIVER.LINK}'s daughter, {TARGET_HERO.LINK}.{newline}{newline}They said a young woman and a young man drooped by early in the morning to buy some supplies and then rode off towards {TARGET_VILLAGE}." />
     <string id="WIrXcL64" text="Do extortion." />
     <string id="wlKtDR2z" text="Thank you {?PLAYER.GENDER}lady{?}sir{\?}." />
     <string id="WnIWqytA" text=".. The lads and I here, we're all faithful followers of the {FACTION_NAME}. Which means we've got the Heavens looking out for us, and also an army of our brothers-in-faith, if anyone gives us trouble." />
