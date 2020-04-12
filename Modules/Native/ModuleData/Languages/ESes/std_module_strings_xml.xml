@@ -844,7 +844,7 @@
     <string id="KkaVpLXd" text="Bring this policy to a vote" />
     <string id="klZnvb15" text="Character" />
     <string id="kM1Y8XT0" text="You will not be dissapointed {?PLAYER.GENDER}madam{?}sir{\?}. You will not find better warriors in all Calradia.[rb:very_positive]" />
-    <string id="koX9okuG" text="None" />
+    <string id="koX9okuG" text="Ninguno" />
     <string id="kQMtOPye" text="Besiege" />
     <string id="KQQaoouG" text="(Finished)" />
     <string id="kRKYHQ6V" text="When a stack lands exactly on its home-tile, all pawns of the player who controls the stack are returned to that player's hand, and can be re-used. The pawns belonging to the other player are eliminated from the game." />
@@ -1426,7 +1426,7 @@
     <string id="WHED64rw" text="A new troop will be available here after some time." />
     <string id="WhuufgY5" text="Notable Relations" />
     <string id="wib91252" text="Profession: {PROFESSION}" />
-    <string id="WiNRdfsm" text="Done" />
+    <string id="WiNRdfsm" text="Hecho" />
     <string id="wjb4tZDX" text="Level: {LEVEL}" />
     <string id="wJn42hTq" text="Garrison Effect with perks" />
     <string id="wjuieMsE" text="Your opponent gained 1 point for the hit!" />
@@ -1501,7 +1501,7 @@
     <string id="y4MiEr0H" text="Troop Types" />
     <string id="Y5byltUT" text="sultan" />
     <string id="y8Catvvn" text="Ranged Weapons III" />
-    <string id="Y94H6XnK" text="Accept" />
+    <string id="Y94H6XnK" text="Aceptar" />
     <string id="Y9egTJg0" text="Daily Change" />
     <string id="yaxwYglT" text="Dispatched" />
     <string id="YbabzW3H" text="You've been in prison at {SETTLEMENT_NAME} for {NUMBER_OF_DAYS} {?PLURAL}days{?}day{\?}." />
@@ -1568,7 +1568,7 @@
     <string id="zCQaPTOK" text="Mercenary" />
     <string id="ZdeswYbM" text="Trader doesn't have enough money! Are you sure?" />
     <string id="zDHbQtm9" text="You've been killed by a stray horse!" />
-    <string id="ZdqbU2gw" text="Accept" />
+    <string id="ZdqbU2gw" text="Aceptar" />
     <string id="zEbvDH7V" text="You cannot support your own clan." />
     <string id="zeGAw2IE" text="Killed by" />
     <string id="ZEzxHLaH" text="Cannot recruit prisoner heroes" />

@@ -4,9 +4,9 @@
     <tag language="Spanish" />
   </tags>
   <strings>
-    <string id="1VOXUsST" text="Customize your banner's symbol" />
+    <string id="1VOXUsST" text="Personaliza el símbolo de tu bandera" />
     <string id="3CpNUnVl" text="Cancelar" />
-    <string id="Eg3m6vUS" text="Customize your personal banner by choosing your clan's symbol" />
-    <string id="WiNRdfsm" text="Done" />
+    <string id="Eg3m6vUS" text="Personaliza tu bandera personal eligiendo el símbolo de tu clan" />
+    <string id="WiNRdfsm" text="Hecho" />
   </strings>
 </base>

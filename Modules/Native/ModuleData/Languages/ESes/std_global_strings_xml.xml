@@ -7,7 +7,7 @@
     <string id="03mPaWum" text="Kingdom" />
     <string id="08oulGov" text="Drop your equipped weapon." />
     <string id="0EDGnl1C" text="Ranged Only" />
-    <string id="0fLpwDzk" text="Sets the window mode.{newline}Windowed: Runs the game on a window.{newline}Fullscreen: Runs the game in full screen.{newline}Borderless Fullscreen: Runs the game on a borderless maximized window." />
+    <string id="0fLpwDzk" text="Establece el modo ventana.{newline}Ventana: ejecuta el juego en una ventana.{newline}Pantalla Completa: ejecuta el juego en pantalla completa.{newline}Pantalla completa sin Bordes: Ejecuta el juego en una ventana maximizada sin bordes." />
     <string id="0hzYbsXD" text="Equip Weapon 1 DESC" />
     <string id="0MvDMsEl" text="Occlusion Method" />
     <string id="0ot0eBzv" text="Turn Camera With Horse In First Person" />
@@ -18,8 +18,8 @@
     <string id="1awQTVqN" text="Number Of Ragdolls" />
     <string id="1dQFNvhQ" text="Numpad +" />
     <string id="1ebaa1Wf" text="Toggle Walk/Run Mode" />
-    <string id="1uCaibsd" text="Full" />
-    <string id="1WsmBXkN" text="Frame Limiter" />
+    <string id="1uCaibsd" text="Completo" />
+    <string id="1WsmBXkN" text="Limitador de FPS" />
     <string id="1zEr6Zs8" text="Left Stick Right" />
     <string id="25MeMNbP" text="Right" />
     <string id="26r6Q8at" text="Right Stick Down" />
@@ -36,7 +36,7 @@
     <string id="3Gb7tKgJ" text="{LEFT} and {RIGHT}" />
     <string id="3MLvkSjw" text="Report Shot Difficulty" />
     <string id="3nTeojbI" text="=" />
-    <string id="3oUbmqJY" text="Synchronizes the game to the monitor's refresh rate. Eliminates tearing artifacts." />
+    <string id="3oUbmqJY" text="Sincroniza el juego con la frecuencia de actualización del monitor. Elimina el desgarramiento." />
     <string id="3P7eDKEY" text="Equip Item 4" />
     <string id="3sRdGQou" text="Leave" />
     <string id="3V0bvyLC" text="{STR1}{STR2}" />
@@ -44,7 +44,7 @@
     <string id="3zk3mzG4" text="Leave DESC" />
     <string id="41Na9Lg1" text="Left Stick" />
     <string id="44akzqlm" text="Right Arrow" />
-    <string id="45yEpDdE" text="Resolution Scale" />
+    <string id="45yEpDdE" text="Escala de resolución" />
     <string id="46vWdakp" text="Y" />
     <string id="4aAvY4yO" text="Low" />
     <string id="4AyPI1H9" text="Camera Toggle DESC" />
@@ -64,9 +64,9 @@
     <string id="5JwDMBlz" text="Move Left DESC" />
     <string id="5jxcNYlU" text="Numpad 6" />
     <string id="5QpTaCa0" text="W" />
-    <string id="5siWUJPw" text="Fullscreen" />
+    <string id="5siWUJPw" text="Pantalla Completa" />
     <string id="5WDQLWCk" text="Campaign AI" />
-    <string id="6AnHiJGR" text="Selected Monitor" />
+    <string id="6AnHiJGR" text="Monitor seleccionado" />
     <string id="6auWfPnA" text="SelectOrder6 DESC" />
     <string id="6CeL6iOp" text="Select Group 1" />
     <string id="6g0y182U" text="Environment Detail" />
@@ -183,7 +183,7 @@
     <string id="DiK2cKUi" text="Sound Device" />
     <string id="DIvUcHY1" text="UI Leave" />
     <string id="dkLG4JC4" text="Enter" />
-    <string id="DqFxOjTp" text="Screen Resolution" />
+    <string id="DqFxOjTp" text="Resolución de la Pantalla" />
     <string id="drbgOAqx" text="Enable reports for experience gain." />
     <string id="drG1OL8d" text="Mouse Scroll Up" />
     <string id="dRx9qWRO" text="Map Context Menu DESC" />
@@ -193,7 +193,7 @@
     <string id="E5xbXlLB" text="Enables the sun shafts." />
     <string id="ea8kNj32" text="Your preferred sound output device." />
     <string id="EaOcWkH3" text="Open Encyclopedia." />
-    <string id="efBaDf0A" text="Brightness" />
+    <string id="efBaDf0A" text="Brillo" />
     <string id="EkzORIiZ" text="Open all chat." />
     <string id="evc8yBIy" text="M" />
     <string id="EvOLbiqM" text="Select Group 3" />
@@ -211,7 +211,7 @@
     <string id="FqvJUBRn" text="Very Low" />
     <string id="fsI2wuHa" text="Group 2 Hear" />
     <string id="fXKtZqmW" text="Move Camera Down" />
-    <string id="G2e8xucc" text="If the checkered patterns are not visible inside the frames, try moving the sliders.{newline}Adjust the sliders to the point where patterns are almost visible." />
+    <string id="G2e8xucc" text="Si los patrones a cuadros no son visibles dentro de los marcos, intente mover los controles deslizantes. {newline} Ajuste los controles deslizantes justo donde los patrones son casi visibles." />
     <string id="g4Iq82iw" text="Open team chat." />
     <string id="g4VjAbMG" text="J" />
     <string id="G8ug5Bwx" text="Chat" />
@@ -221,7 +221,7 @@
     <string id="Gd2iUUHa" text="Sets the render quality of particles. A higher value means sharper particles." />
     <string id="GgUBPvBH" text="Enable showing banners on friendly troops." />
     <string id="gIsqhwTs" text="First Person Field of View" />
-    <string id="Gl2S6WEW" text="Sets the monitor that the game window to be displayed." />
+    <string id="Gl2S6WEW" text="Configura el monitor en el que se mostrará el juego." />
     <string id="Gl7wgtPQ" text="Move Party Up" />
     <string id="glpNsbMs" text="Zoom DESC" />
     <string id="GO6zrJwF" text="Inventory Window DESC" />
@@ -305,7 +305,7 @@
     <string id="k2QXfBBn" text="Y Button" />
     <string id="k3CLKsrz" text="By Mouse Movement" />
     <string id="k3LajvfJ" text="Open Banner Editor screen." />
-    <string id="k4E1gylQ" text="Sets the amount of sharpen effect." />
+    <string id="k4E1gylQ" text="Establece la cantidad del efecto de nitidez." />
     <string id="k7gJYLLj" text="Numpad 8" />
     <string id="K80z5onY" text="Determines how far will the camera be in third-person." />
     <string id="kak4GxOh" text="F6" />
@@ -313,15 +313,15 @@
     <string id="kF5FabLb" text="Defend DESC" />
     <string id="kG4051e5" text="SelectOrder7" />
     <string id="KHbdmIfF" text="Static Only" />
-    <string id="KjZas5Xs" text="Sets the display adapter that the game will run on." />
+    <string id="KjZas5Xs" text="Establece el adaptador de pantalla en el que se ejecutará el juego." />
     <string id="Kk0hMffJ" text="Mouse Sensitivity" />
     <string id="KKNmozPI" text="Left Arrow" />
     <string id="KO5zuUvN" text="Action" />
     <string id="KONClayU" text="\" />
-    <string id="koX9okuG" text="None" />
-    <string id="KtYtBnvP" text="Sets the frame limiter." />
+    <string id="koX9okuG" text="Ninguno" />
+    <string id="KtYtBnvP" text="Establece el limitador de FPS." />
     <string id="KUEHAD4U" text="Quests" />
-    <string id="KwNTg7BT" text="Display Mode" />
+    <string id="KwNTg7BT" text="Modo de visualización" />
     <string id="lC5xsoSh" text="Unlimited" />
     <string id="lCucoVwJ" text="Estimated GPU Memory Usage" />
     <string id="lgOBD6MF" text="Enable marks for direction of attack." />
@@ -367,7 +367,7 @@
     <string id="nzElFOoI" text="256 (Mid)" />
     <string id="o0QPZODk" text="Move Party Left" />
     <string id="o8WjGqS4" text="Z" />
-    <string id="ocNVbyPJ" text="Borderless Fullscreen" />
+    <string id="ocNVbyPJ" text="Pantalla Completa sin Bordes" />
     <string id="odsVjkbO" text="Open Inventory." />
     <string id="oEdTBobd" text="Anisotropic 2X" />
     <string id="oeXA4OpG" text="Map Select DESC" />
@@ -437,7 +437,7 @@
     <string id="Rhl5E2ut" text="Sets the type of shadows." />
     <string id="rNiESgEo" text="]" />
     <string id="ro0NhUnJ" text="Set field of view for first person camera." />
-    <string id="roJLc9oH" text="Half" />
+    <string id="roJLc9oH" text="Mitad" />
     <string id="rP058aIm" text="Equip the item in your first slot." />
     <string id="RSmsn6mb" text="Resume/Pause Time" />
     <string id="rwE0VVQX" text="Map Camera Follow Mode DESC" />
@@ -447,11 +447,11 @@
     <string id="s4r1xdg0" text="Group 6 Hear" />
     <string id="s533kEjf" text="Music Volume" />
     <string id="s6qTeIw1" text="Set sensitivity for mouse movement and camera control." />
-    <string id="s7yWjpeB" text="Selected Adapter" />
+    <string id="s7yWjpeB" text="Adaptador Seleccionado" />
     <string id="sAa2SIgO" text="You can switch between different mix modes better suited to your speaker configuration." />
     <string id="SaA3oKNB" text="Map Move Backward DESC" />
-    <string id="sAoWNAwZ" text="Windowed" />
-    <string id="Sb3L2QwL" text="Sets the resolution scale." />
+    <string id="sAoWNAwZ" text="Ventana" />
+    <string id="Sb3L2QwL" text="Establece la escala de resolución." />
     <string id="sbUBtOTb" text="Report Damage" />
     <string id="SEucYSln" text="Numpad 2" />
     <string id="ShDZ4GgG" text="Equip Weapon 3" />
@@ -470,7 +470,7 @@
     <string id="tbGol5PT" text="F4" />
     <string id="tbwhjsqS" text="Right Mouse Button" />
     <string id="Tdf5AbRp" text="Open Clan Screen." />
-    <string id="teuLiI9S" text="Sets the brightness level." />
+    <string id="teuLiI9S" text="Establece el nivel de brillo." />
     <string id="TEuOMadV" text="Tab" />
     <string id="tewykKdc" text="Control Block Direction" />
     <string id="TgIAHPHs" text="Select Order 4" />
@@ -522,7 +522,7 @@
     <string id="Vb2KV9q1" text="Right Stick Left" />
     <string id="Ve99pCSo" text="Cloth Simulation" />
     <string id="VE9TavSl" text="Sets the decal quality." />
-    <string id="vIWlbrvQ" text="Brightness Calibration" />
+    <string id="vIWlbrvQ" text="Calibración de brillo" />
     <string id="Vn4uzMUH" text="Group 6 Hear DESC" />
     <string id="Vo5lBwQA" text="Equip Weapon 3 DESC" />
     <string id="Vpy2qEcN" text="By Movement Keys" />
@@ -579,7 +579,7 @@
     <string id="yDr2HCFR" text="Switch to 360 degree view mode around your character." />
     <string id="yfMN8wWN" text="Anisotropic 4X" />
     <string id="Yg2jHH1M" text="Numpad /" />
-    <string id="yLCSTuBw" text="Sets the resolution of the game. Higher resolution requires a more powerful display adapter." />
+    <string id="yLCSTuBw" text="Establece la resolución del juego. Una resolución más alta requiere un adaptador de pantalla más potente." />
     <string id="Yn8bh0qT" text="Equip Next Shield" />
     <string id="YT6ljA5V" text="Map Move Forward" />
     <string id="yV64UCaW" text="Zoom In" />
